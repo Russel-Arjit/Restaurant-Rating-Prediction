@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Machine%20Learning-Regression-orange" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn" alt="Scikit-learn">
@@ -386,7 +386,7 @@ Follow the steps below to run this project on your local system.
 
 Make sure the following software is installed:
 
-- Python 3.x
+- Python 3.10
 - Git
 - Visual Studio Code (recommended)
 - A web browser
